@@ -1,4 +1,4 @@
-# Clustering_Analyzing-the-Online-Shopper-s-Purchasing-Intention
+# Clustering_Analyzing-the-Online-Shoppers-Purchasing-Intention
 
 ## Online Shoppers Purchasing Intention Dataset is from UCI. The dataset consists of 10 numerical and 8 categorical attributes. The 'Revenue' attribute can be used as the class label.
 #### "Administrative", "Administrative Duration", "Informational", "Informational Duration", "Product Related" and "Product Related Duration" represent the number of different types of pages visited by the visitor in that session and total time spent in each of these page categories. 
