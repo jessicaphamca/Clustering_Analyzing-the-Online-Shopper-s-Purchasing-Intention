@@ -63,3 +63,5 @@ The clustering analysis and hypothesis testing revealed important user segments.
 - Focus on optimizing user experience for **Traffic Type 2** and **OS 2**, as they drive the most visitors and conversions.
 - Consider strategies to convert more of the returning visitors into paying customers to increase the overall conversion rate.
 
+For more details, refer to the project’s GitHub repository [here](https://github.com/jessicaphamca/Website-Visitor-Behavior-Analysis/blob/main/Website_Visitor_Behavior_Analysis.ipynb).
+
